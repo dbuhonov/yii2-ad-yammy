@@ -13,7 +13,7 @@ AdYammy для Yii2 - это комплексное решение, разраб
 Для установки расширения, выполните команду:
 
 ```
-composer require require --prefer-dist dmitrybukhonov/yii2-ad-yammy "*"
+composer require dmitrybukhonov/yii2-ad-yammy "*"
 ```
 
 Использование
