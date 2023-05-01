@@ -53,6 +53,6 @@ use dmitrybukhonov\adyammy\widgets\AdWidget;
 use dmitrybukhonov\adyammy\helpers\AdPosition;
 
 <?= AdWidget::widget([
-    'id' => AdPosition::DISPLAY_MIDDLE_HOME_PAGE_ID,
+    'positionId' => AdPosition::DISPLAY_MIDDLE_HOME_PAGE_ID,
 ]) ?>
 ```
